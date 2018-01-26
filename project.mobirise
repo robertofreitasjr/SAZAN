@@ -23,11 +23,11 @@
         "display5Font": "Rubik",
         "display5Size": "1.8",
         "display7Font": "Rubik",
-        "display7Size": 1,
+        "display7Size": "1.4",
         "display4Font": "Rubik",
         "display4Size": "1",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": false,
+        "isAnimatedOnScroll": true,
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
