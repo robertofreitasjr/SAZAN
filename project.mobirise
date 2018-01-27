@@ -369,7 +369,7 @@
           "_params": {
             "slides__autoplay": true,
             "slides__autoplayInterval": "3000",
-            "slides__showBullets": false,
+            "slides__showBullets": true,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20180118-wa0009-1280x720.jpg",
