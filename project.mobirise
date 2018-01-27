@@ -36,7 +36,10 @@
     },
     "favicon": "@PROJECT_PATH@/assets/images/img-20180123-102302-128x128.png",
     "noImageResize": "",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "siteUrl": "http://sazansushi.com/",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
